@@ -1,2 +1,4 @@
-package pers.syf;public class d3 {
+package pers.syf;
+
+public class d3 {
 }
